@@ -6,7 +6,7 @@
 
 | № | Практическая работа | Тема | Ссылка |
 |---|---------------------|------|--------|
-| 1-2 | **Практическая работа №1-2** | Переменные, операции со строками и числами | [Посмотреть](https://github.com/MrAlexFS/ALL-MDK/blob/MDK.09.01/Practical_work_1-2.php) |
+| 1-2 | **Практическая работа №1-2** | Переменные, операции со строками и числами | [Посмотреть](./Practical_work_1-2.php) |
 | 3-4 | **Практическая работа №3-4** | Массивы: индексированные, ассоциативные, многомерные | [Посмотреть](https://github.com/MrAlexFS/ALL-MDK/blob/MDK.09.01/Practical_work_3-4.php) |
 | 5-6 | **Практическая работа №5-6** | Условные операторы: if-else, switch-case | [Посмотреть](https://github.com/MrAlexFS/ALL-MDK/blob/MDK.09.01/Practical_work_5-6.php) |
 | 7-8 | **Практическая работа №7-8** | Циклы: foreach, while, for | [Посмотреть](https://github.com/MrAlexFS/ALL-MDK/blob/MDK.09.01/Practical_work_7-8.php) |
