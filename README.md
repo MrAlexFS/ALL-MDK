@@ -119,31 +119,6 @@
 
 ---
 
-## 📂 Структура репозитория
-
-ALL-MDK/
-├── Practical_work_1-2.php # Переменные, операции
-├── Practical_work_3-4.php # Массивы
-├── Practical_work_5-6.php # Условные операторы
-├── Practical_work_7-8.php # Циклы
-├── Practical_work_9.php # Строки, HTML-теги
-├── Practical_work_11-12.php # Функции строк
-├── Practical_work_14-15.php # Серверные сценарии
-├── Practical_work_16-17.php # Условный оператор
-├── Practical_work_18-19.php # Обработка форм
-├── Practical_work_20.php # Дата и время
-├── Practical_work_21.php # Пользовательские функции
-├── Practical_work_22.php # Работа с флагами
-├── Practical_work_23.php # Логические значения
-├── Practical_work_24-26.php # Файловый ввод-вывод
-├── Practical_work_27.php # Основы SQL
-├── Practical_work_28-29.php # Создание БД, связи с БД
-├── Practical_work_30.php # Сессии
-└── README.md # Этот файл
-
-
----
-
 ## ⚙️ Настройка для работ с базами данных (№27-29)
 
 Для корректной работы работ, использующих базы данных, необходимо:
