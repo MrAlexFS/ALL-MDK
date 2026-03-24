@@ -1,0 +1,29 @@
+{
+  "target": "http://demo.testfire.net",
+  "start_time": "2026-03-24T18:51:14.721931",
+  "end_time": "2026-03-24T18:51:46.853158",
+  "duration": "0:00:32.131232",
+  "vulnerabilities": [
+    {
+      "name": "Отсутствуют заголовки безопасности",
+      "severity": "MEDIUM",
+      "details": "Отсутствуют: HSTS, CSP, Clickjacking защита, MIME sniffing защита, XSS защита, Referrer политика",
+      "proof": "",
+      "timestamp": "2026-03-24T18:51:15.609374"
+    },
+    {
+      "name": "Открытые сетевые порты",
+      "severity": "INFO",
+      "details": "Найдены открытые порты: 21 (FTP), 22 (SSH), 80 (HTTP), 443 (HTTPS), 3306 (MySQL), 5432 (PostgreSQL), 27017 (MongoDB), 6379 (Redis), 8080 (HTTP-Alt), 8443 (HTTPS-Alt)",
+      "proof": "",
+      "timestamp": "2026-03-24T18:51:16.216167"
+    }
+  ],
+  "test_results": {
+    "sqli": [],
+    "xss": [],
+    "idor": [],
+    "csrf": [],
+    "information": []
+  }
+}
