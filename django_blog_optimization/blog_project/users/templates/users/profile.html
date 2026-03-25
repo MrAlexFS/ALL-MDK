@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Личный кабинет</title>
+</head>
+<body>
+    <h1>Добро пожаловать, {{ user.username }}</h1>
+
+    <h2>Мои посты</h2>
+    <ul>
+        {% for post in posts %}
+            <li>
+                {{ post.title }} (категория: {{ post.category.name }}) — комментариев: {{ post.comments.count }}
+            </li>
+        {% empty %}
+            <li>Нет постов.</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Мои комментарии</h2>
+    <ul>
+        {% for comment in comments %}
+            <li>
+                {{ comment.text }} <br>
+                к посту: {{ comment.post.title }} (автор: {{ comment.post.author.username }})
+            </li>
+        {% empty %}
+            <li>Нет комментариев.</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
