@@ -1,0 +1,94 @@
+{
+  "url": "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/",
+  "timestamp": "2026-03-26 23:03:59",
+  "robots": {
+    "exists": true,
+    "content": "# NetCat Robots file\r\nUser-agent: *\r\nDisallow: /install/\r\nSitemap: /sitemap.xml",
+    "disallowed": [
+      "/install/"
+    ]
+  },
+  "resources_accessibility": {
+    "total_css_js": 9,
+    "blocked_count": 0,
+    "blocked_examples": [],
+    "accessible_examples": [
+      [
+        "css",
+        "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/images/ns2/css/normalize.css"
+      ],
+      [
+        "css",
+        "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/images/ns2/css/style2.css"
+      ],
+      [
+        "css",
+        "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/images/ns2/css/style-media.css"
+      ],
+      [
+        "css",
+        "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/images/ns2/css/multilevel-menu.css"
+      ],
+      [
+        "css",
+        "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/images/ns2/css/flexslider.css"
+      ]
+    ]
+  },
+  "speed": {
+    "desktop": {
+      "load_time_sec": 0.67,
+      "ttfb_sec": 0.67,
+      "size_bytes": 17832,
+      "size_mb": 0.02,
+      "status_code": 200
+    },
+    "mobile": {
+      "load_time_sec": 0.69,
+      "ttfb_sec": 0.69,
+      "size_bytes": 17832,
+      "size_mb": 0.02,
+      "status_code": 200
+    }
+  },
+  "mobile_friendly": {
+    "viewport_meta": true,
+    "media_queries_detected": true,
+    "recommendation": "OK"
+  },
+  "html_validation": {
+    "valid": true,
+    "errors": []
+  },
+  "broken_links": {
+    "total_checked": 50,
+    "broken_count": 2,
+    "broken_examples": [
+      [
+        "tel:+79182504209",
+        "ошибка соединения"
+      ],
+      [
+        "tel:+79886030885",
+        "ошибка соединения"
+      ]
+    ]
+  },
+  "duplicates": {
+    "potential_duplicates": [
+      "https://xn--80aaoziqh.xn--j1aef.xn--p1ai",
+      "http://xn--80aaoziqh.xn--j1aef.xn--p1ai/",
+      "https://www.xn--80aaoziqh.xn--j1aef.xn--p1ai/"
+    ],
+    "accessible_duplicates": [
+      "https://xn--80aaoziqh.xn--j1aef.xn--p1ai",
+      "http://xn--80aaoziqh.xn--j1aef.xn--p1ai/",
+      "https://www.xn--80aaoziqh.xn--j1aef.xn--p1ai/"
+    ]
+  },
+  "recommendations": [
+    "Проверьте, не заблокированы ли важные разделы в robots.txt.",
+    "Обнаружено 2 битых ссылок. Исправьте или удалите их.",
+    "Найдены доступные зеркала: https://xn--80aaoziqh.xn--j1aef.xn--p1ai, http://xn--80aaoziqh.xn--j1aef.xn--p1ai/, https://www.xn--80aaoziqh.xn--j1aef.xn--p1ai/. Настройте 301-редирект."
+  ]
+}

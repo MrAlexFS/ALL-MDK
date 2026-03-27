@@ -1,0 +1,61 @@
+{
+  "url": "https://prorab01.ru",
+  "timestamp": "2026-03-26 19:17:28",
+  "availability": {
+    "accessible": true,
+    "load_time_sec": 0.71,
+    "final_url": "https://prorab01.ru/"
+  },
+  "robots": {
+    "exists": true,
+    "content": "Sitemap: https://prorab01.ru/sitemap.xml\r\n\r\nUser-agent:*\r\n#Общие\r\nDisallow: /?\r\nDisallow: /*?&\r\nDisallow: /*?$\r\nDisallow: /*?*&$\r\nDisallow: /*?*=$\r\n#Посторонние\r\nClean-param: baobab_event_id /*\r\nClean-param: cm_id /*\r\nClean-param: gcid /*\r\nClean-param: keyword /*\r\nClean-param: matchtype /*\r\nClean-param: openstat /*\r\nClean-param: ref /*\r\nClean-param: utm_campaign /*\r\nClean-param: utm_content /*\r\nClean-param: utm_mail /*\r\nClean-param: utm_medium /*\r\nClean-param: utm_source /*\r\nClean-param: utm_ter..."
+  },
+  "sitemap": {
+    "exists": true
+  },
+  "meta": {
+    "title": "Загрузка...",
+    "title_length": 11,
+    "description": null,
+    "keywords": null,
+    "robots_meta": null,
+    "canonical": null
+  },
+  "headings": {
+    "h1": [
+      "Загрузка..."
+    ],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "images": {
+    "total_images": 0,
+    "missing_alt": 0,
+    "missing_title": 0,
+    "alt_percentage": 100,
+    "title_percentage": 100
+  },
+  "text": {
+    "text_length_chars": 92,
+    "word_count": 11,
+    "sample_text": "Загрузка... Загрузка... Если ничего не происходит, включите в бразуере поддержку JavaScript!"
+  },
+  "links": {
+    "total_links_found": 0,
+    "unique_links": 0,
+    "internal_links": 0,
+    "external_links": 0,
+    "broken_links_checked": 0,
+    "broken_links": []
+  },
+  "speed": {
+    "avg_load_time_3": 0.62
+  },
+  "social": {
+    "share_buttons": false,
+    "footer_social_links": []
+  }
+}

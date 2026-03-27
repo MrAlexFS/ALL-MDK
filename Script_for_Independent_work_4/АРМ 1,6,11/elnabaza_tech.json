@@ -1,0 +1,91 @@
+{
+  "url": "https://prorab01.ru/",
+  "timestamp": "2026-03-26 22:59:20",
+  "robots": {
+    "exists": true,
+    "content": "Sitemap: https://prorab01.ru/sitemap.xml\r\n\r\nUser-agent:*\r\n#Общие\r\nDisallow: /?\r\nDisallow: /*?&\r\nDisallow: /*?$\r\nDisallow: /*?*&$\r\nDisallow: /*?*=$\r\n#Посторонние\r\nClean-param: baobab_event_id /*\r\nClean-param: cm_id /*\r\nClean-param: gcid /*\r\nClean-param: keyword /*\r\nClean-param: matchtype /*\r\nClean-param: openstat /*\r\nClean-param: ref /*\r\nClean-param: utm_campaign /*\r\nClean-param: utm_content /*\r\nClean-param: utm_mail /*\r\nClean-param: utm_medium /*\r\nClean-param: utm_source /*\r\nClean-param: utm_ter",
+    "disallowed": [
+      "/?",
+      "/*?&",
+      "/*?$",
+      "/*?*&$",
+      "/*?*=$",
+      "/*/jumpto/",
+      "/admin",
+      "/cart",
+      "/jss",
+      "/input"
+    ]
+  },
+  "resources_accessibility": {
+    "total_css_js": 3,
+    "blocked_count": 0,
+    "blocked_examples": [],
+    "accessible_examples": [
+      [
+        "css",
+        "https://prorab01.ru/jss/d75c0c46f6a350a8303d1712297af162.css"
+      ],
+      [
+        "js",
+        "https://prorab01.ru/jss/3be6004df54c1914314605c091e03598.js"
+      ],
+      [
+        "js",
+        "https://prorab01.ru/js/prorab-front.min.js"
+      ]
+    ]
+  },
+  "speed": {
+    "desktop": {
+      "load_time_sec": 0.94,
+      "ttfb_sec": 0.94,
+      "size_bytes": 100056,
+      "size_mb": 0.1,
+      "status_code": 200
+    },
+    "mobile": {
+      "load_time_sec": 0.93,
+      "ttfb_sec": 0.93,
+      "size_bytes": 100056,
+      "size_mb": 0.1,
+      "status_code": 200
+    }
+  },
+  "mobile_friendly": {
+    "viewport_meta": true,
+    "media_queries_detected": true,
+    "recommendation": "OK"
+  },
+  "html_validation": {
+    "valid": true,
+    "errors": []
+  },
+  "broken_links": {
+    "total_checked": 50,
+    "broken_count": 1,
+    "broken_examples": [
+      [
+        "tel:+79002622000",
+        "ошибка соединения"
+      ]
+    ]
+  },
+  "duplicates": {
+    "potential_duplicates": [
+      "https://prorab01.ru",
+      "http://prorab01.ru/",
+      "https://www.prorab01.ru/"
+    ],
+    "accessible_duplicates": [
+      "https://prorab01.ru",
+      "http://prorab01.ru/",
+      "https://www.prorab01.ru/"
+    ]
+  },
+  "recommendations": [
+    "Проверьте, не заблокированы ли важные разделы в robots.txt.",
+    "Обнаружено 1 битых ссылок. Исправьте или удалите их.",
+    "Найдены доступные зеркала: https://prorab01.ru, http://prorab01.ru/, https://www.prorab01.ru/. Настройте 301-редирект."
+  ]
+}

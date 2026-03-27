@@ -1,0 +1,49 @@
+{
+  "url": "https://spokast.ru/",
+  "timestamp": "2026-03-26 21:19:53",
+  "load_time": {
+    "ttfb_sec": 0.55,
+    "full_load_sec": 0.0
+  },
+  "resources": {
+    "total_requests": 0,
+    "total_size_bytes": 0,
+    "total_size_mb": 0.0,
+    "by_type": {
+      "css": {
+        "count": 0,
+        "size": 0
+      },
+      "js": {
+        "count": 0,
+        "size": 0
+      },
+      "images": {
+        "count": 0,
+        "size": 0
+      }
+    }
+  },
+  "headers": {
+    "gzip_enabled": false,
+    "caching_enabled": false,
+    "cdn_used": false,
+    "https_used": true,
+    "redirects_count": 0
+  },
+  "optimization": {
+    "minification": {
+      "html": true,
+      "css": false,
+      "js": false
+    }
+  },
+  "recommendations": [
+    "TTFB = 0.55 с (желательно < 0.5 с). Оптимизируйте работу сервера, включите кэширование.",
+    "Включите GZIP сжатие в .htaccess или настройках сервера.",
+    "Настройте кэширование браузера (Expires, Cache-Control).",
+    "Подключите CDN (например, Cloudflare) для ускорения доставки контента.",
+    "Минифицируйте CSS и JavaScript (удалите пробелы, комментарии). Используйте инструменты вроде CSSNano, UglifyJS.",
+    "Оцените возможность перехода на более быстрый хостинг (VPS, NVMe SSD) или использования HTTP/2/3."
+  ]
+}

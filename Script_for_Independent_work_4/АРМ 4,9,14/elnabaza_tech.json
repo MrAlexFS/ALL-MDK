@@ -1,0 +1,118 @@
+{
+  "url": "https://kirpich-stroi.ru/",
+  "timestamp": "2026-03-26 23:06:17",
+  "robots": {
+    "exists": true,
+    "content": "User-agent: *\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\nSitemap: https://kirpich-stroi.ru/sitemap_index.xml\r\n\r\nHost: https://kirpich-stroi.ru/\r\n",
+    "disallowed": [
+      "/wp-admin/"
+    ]
+  },
+  "resources_accessibility": {
+    "total_css_js": 50,
+    "blocked_count": 0,
+    "blocked_examples": [],
+    "accessible_examples": [
+      [
+        "css",
+        "https://kirpich-stroi.ru/wp-content/themes/astra/assets/css/minified/style.min.css?ver=4.11.13"
+      ],
+      [
+        "css",
+        "https://kirpich-stroi.ru/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.9"
+      ],
+      [
+        "css",
+        "https://kirpich-stroi.ru/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.9"
+      ],
+      [
+        "css",
+        "https://kirpich-stroi.ru/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.35.1"
+      ],
+      [
+        "css",
+        "https://kirpich-stroi.ru/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.35.9"
+      ]
+    ]
+  },
+  "speed": {
+    "desktop": {
+      "load_time_sec": 1.7,
+      "ttfb_sec": 1.7,
+      "size_bytes": 180615,
+      "size_mb": 0.17,
+      "status_code": 200
+    },
+    "mobile": {
+      "load_time_sec": 1.67,
+      "ttfb_sec": 1.66,
+      "size_bytes": 180626,
+      "size_mb": 0.17,
+      "status_code": 200
+    }
+  },
+  "mobile_friendly": {
+    "viewport_meta": true,
+    "media_queries_detected": true,
+    "recommendation": "OK"
+  },
+  "html_validation": {
+    "valid": false,
+    "errors": [
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317",
+      "Дублирующийся ID: loop-dynamic-2317"
+    ]
+  },
+  "broken_links": {
+    "total_checked": 45,
+    "broken_count": 5,
+    "broken_examples": [
+      [
+        "tel:+79183501155",
+        "ошибка соединения"
+      ],
+      [
+        "tel:+79183251155",
+        "ошибка соединения"
+      ],
+      [
+        "tel:+79183501155%20",
+        "ошибка соединения"
+      ],
+      [
+        "https://kirpich-stroi.ru/privacy-policy",
+        404
+      ],
+      [
+        "https://api.whatsapp.com/send?phone=79183501155%20",
+        "ошибка соединения"
+      ]
+    ]
+  },
+  "duplicates": {
+    "potential_duplicates": [
+      "https://kirpich-stroi.ru",
+      "https://www.kirpich-stroi.ru/",
+      "http://kirpich-stroi.ru/"
+    ],
+    "accessible_duplicates": [
+      "https://kirpich-stroi.ru",
+      "https://www.kirpich-stroi.ru/",
+      "http://kirpich-stroi.ru/"
+    ]
+  },
+  "recommendations": [
+    "Проверьте, не заблокированы ли важные разделы в robots.txt.",
+    "Найдены ошибки валидации HTML: 10. Исправьте их.",
+    "Обнаружено 5 битых ссылок. Исправьте или удалите их.",
+    "Найдены доступные зеркала: https://kirpich-stroi.ru, https://www.kirpich-stroi.ru/, http://kirpich-stroi.ru/. Настройте 301-редирект."
+  ]
+}

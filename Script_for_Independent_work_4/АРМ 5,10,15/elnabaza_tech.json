@@ -1,0 +1,102 @@
+{
+  "url": "https://stroikomfort-m.ru/",
+  "timestamp": "2026-03-26 23:11:24",
+  "robots": {
+    "exists": true,
+    "content": "User-agent: Yandex\nAllow: /assets/*/*.css\nAllow: /assets/*/*.doc\nAllow: /assets/*/*.docx\nAllow: /assets/*/*.gif\nAllow: /assets/*/*.jpeg\nAllow: /assets/*/*.jpg\nAllow: /assets/*/*.js\nAllow: /assets/*/*.pdf\nAllow: /assets/*/*.png\nAllow: /assets/*/*.ppt\nAllow: /assets/*/*.pptx\nAllow: /assets/*/*.svg\nAllow: /assets/*/*.webp\nAllow: /assets/*/*.xls\nAllow: /assets/*/*.xlsx\nAllow: /core/cache/phpthumb/*.jpeg\nAllow: /core/cache/phpthumb/*.jpg\nAllow: /core/cache/phpthumb/*.pdf\nAllow: /core/cache/phpthumb/*",
+    "disallowed": [
+      "*?*",
+      "*?page=",
+      "*?tag=",
+      "/*.html$",
+      "/affiliate-login",
+      "/assets/",
+      "/avtorizacziya",
+      "/blog-news/",
+      "/buy/",
+      "/cgi-bin"
+    ]
+  },
+  "resources_accessibility": {
+    "total_css_js": 23,
+    "blocked_count": 0,
+    "blocked_examples": [],
+    "accessible_examples": [
+      [
+        "css",
+        "https://stroikomfort-m.ru/app/css/main.css?1774555884"
+      ],
+      [
+        "css",
+        "https://stroikomfort-m.ru/app/css/custom.css?1774555884"
+      ],
+      [
+        "css",
+        "https://stroikomfort-m.ru/assets/components/msfavorites/css/default.min.css?v=f301bf14"
+      ],
+      [
+        "css",
+        "https://stroikomfort-m.ru/assets/components/minishop2/css/web/default.css?v=35fe8439ff"
+      ],
+      [
+        "css",
+        "https://stroikomfort-m.ru/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.css"
+      ]
+    ]
+  },
+  "speed": {
+    "desktop": {
+      "load_time_sec": 0.72,
+      "ttfb_sec": 0.72,
+      "size_bytes": 86753,
+      "size_mb": 0.08,
+      "status_code": 200
+    },
+    "mobile": {
+      "load_time_sec": 0.71,
+      "ttfb_sec": 0.71,
+      "size_bytes": 86738,
+      "size_mb": 0.08,
+      "status_code": 200
+    }
+  },
+  "mobile_friendly": {
+    "viewport_meta": true,
+    "media_queries_detected": true,
+    "recommendation": "OK"
+  },
+  "html_validation": {
+    "valid": false,
+    "errors": [
+      "Дублирующийся ID: clip0_41_605"
+    ]
+  },
+  "broken_links": {
+    "total_checked": 50,
+    "broken_count": 1,
+    "broken_examples": [
+      [
+        "tel:+7 (929) 861-41-58",
+        "ошибка соединения"
+      ]
+    ]
+  },
+  "duplicates": {
+    "potential_duplicates": [
+      "https://stroikomfort-m.ru",
+      "https://www.stroikomfort-m.ru/",
+      "http://stroikomfort-m.ru/"
+    ],
+    "accessible_duplicates": [
+      "https://stroikomfort-m.ru",
+      "https://www.stroikomfort-m.ru/",
+      "http://stroikomfort-m.ru/"
+    ]
+  },
+  "recommendations": [
+    "Проверьте, не заблокированы ли важные разделы в robots.txt.",
+    "Найдены ошибки валидации HTML: 1. Исправьте их.",
+    "Обнаружено 1 битых ссылок. Исправьте или удалите их.",
+    "Найдены доступные зеркала: https://stroikomfort-m.ru, https://www.stroikomfort-m.ru/, http://stroikomfort-m.ru/. Настройте 301-редирект."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://kptech.ru/",
+  "timestamp": "2026-03-26 21:15:26",
+  "load_time": {
+    "ttfb_sec": 1.68,
+    "full_load_sec": 0.0
+  },
+  "resources": {
+    "total_requests": 27,
+    "total_size_bytes": 647282,
+    "total_size_mb": 0.62,
+    "by_type": {
+      "css": {
+        "count": 1,
+        "size": 0
+      },
+      "js": {
+        "count": 3,
+        "size": 3930
+      },
+      "images": {
+        "count": 23,
+        "size": 643352
+      }
+    }
+  },
+  "headers": {
+    "gzip_enabled": true,
+    "caching_enabled": true,
+    "cdn_used": false,
+    "https_used": true,
+    "redirects_count": 2
+  },
+  "optimization": {
+    "minification": {
+      "html": false,
+      "css": false,
+      "js": true
+    }
+  },
+  "recommendations": [
+    "TTFB = 1.68 с (желательно < 0.5 с). Оптимизируйте работу сервера, включите кэширование.",
+    "Подключите CDN (например, Cloudflare) для ускорения доставки контента.",
+    "Обнаружено 2 редиректов. Уменьшите количество перенаправлений.",
+    "Минифицируйте CSS и JavaScript (удалите пробелы, комментарии). Используйте инструменты вроде CSSNano, UglifyJS.",
+    "Минифицируйте HTML (можно плагинами CMS или через .htaccess).",
+    "Изображения занимают 0.61 МБ. Сожмите их и используйте формат WebP.",
+    "Внедрите ленивую загрузку (loading='lazy') для изображений и iframe.",
+    "Оцените возможность перехода на более быстрый хостинг (VPS, NVMe SSD) или использования HTTP/2/3."
+  ]
+}

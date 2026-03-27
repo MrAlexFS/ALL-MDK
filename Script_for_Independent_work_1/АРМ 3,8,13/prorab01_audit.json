@@ -1,0 +1,59 @@
+{
+  "url": "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/",
+  "timestamp": "2026-03-26 19:26:22",
+  "availability": {
+    "accessible": true,
+    "load_time_sec": 0.62,
+    "final_url": "https://xn--80aaoziqh.xn--j1aef.xn--p1ai/"
+  },
+  "robots": {
+    "exists": true,
+    "content": "# NetCat Robots file\r\nUser-agent: *\r\nDisallow: /install/\r\nSitemap: /sitemap.xml"
+  },
+  "sitemap": {
+    "exists": true
+  },
+  "meta": {
+    "title": "Арсенал Торговый дом",
+    "title_length": 20,
+    "description": null,
+    "keywords": null,
+    "robots_meta": null,
+    "canonical": null
+  },
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "images": {
+    "total_images": 33,
+    "missing_alt": 8,
+    "missing_title": 33,
+    "alt_percentage": 75.75757575757575,
+    "title_percentage": 0.0
+  },
+  "text": {
+    "text_length_chars": 2308,
+    "word_count": 283,
+    "sample_text": "Арсенал Торговый дом Обратный звонок перезвоните мне Бесплатная консультация задать вопрос +7 (918) 250-42-09 , +7 (988) 603-08-85 г. Белореченск , ул. Первомайская, 1а схема проезда Главная О нас Каталог товаров Партнеры Контакты Прайс-лист Меню Каталог товаров Электроинструмент Подраздел 1 Расходные материалы Мотоблоки Двигатели Мотопомпы Смазочные материалы Мотобуры Бензоинструмент Триммер электрический \"аккумуляторный\" Генераторы Дизельные Бензиновые Сварочные Газовые Водоснабжение Насосы На..."
+  },
+  "links": {
+    "total_links_found": 56,
+    "unique_links": 50,
+    "internal_links": 49,
+    "external_links": 1,
+    "broken_links_checked": 30,
+    "broken_links": []
+  },
+  "speed": {
+    "avg_load_time_3": 0.61
+  },
+  "social": {
+    "share_buttons": false,
+    "footer_social_links": []
+  }
+}

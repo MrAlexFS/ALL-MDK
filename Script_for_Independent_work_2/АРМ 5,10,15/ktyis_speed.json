@@ -1,0 +1,52 @@
+{
+  "url": "https://ktyis.ru",
+  "timestamp": "2026-03-26 20:00:33",
+  "load_time": {
+    "ttfb_sec": 0.93,
+    "full_load_sec": 0.0
+  },
+  "resources": {
+    "total_requests": 86,
+    "total_size_bytes": 18585381,
+    "total_size_mb": 17.72,
+    "by_type": {
+      "css": {
+        "count": 29,
+        "size": 0
+      },
+      "js": {
+        "count": 27,
+        "size": 33642
+      },
+      "images": {
+        "count": 30,
+        "size": 18551739
+      }
+    }
+  },
+  "headers": {
+    "gzip_enabled": true,
+    "caching_enabled": true,
+    "cdn_used": false,
+    "https_used": true,
+    "redirects_count": 0
+  },
+  "optimization": {
+    "minification": {
+      "html": false,
+      "css": true,
+      "js": true
+    }
+  },
+  "recommendations": [
+    "TTFB = 0.93 с (желательно < 0.5 с). Оптимизируйте работу сервера, включите кэширование.",
+    "Подключите CDN (например, Cloudflare) для ускорения доставки контента.",
+    "Слишком много HTTP-запросов (86). Объедините CSS и JS файлы.",
+    "Общий вес страницы 17.72 МБ. Оптимизируйте изображения и код.",
+    "Минифицируйте HTML (можно плагинами CMS или через .htaccess).",
+    "Изображения занимают 17.69 МБ. Сожмите их и используйте формат WebP.",
+    "Внедрите ленивую загрузку (loading='lazy') для изображений и iframe.",
+    "Используйте атрибуты async/defer для JavaScript, чтобы не блокировать отрисовку.",
+    "Оцените возможность перехода на более быстрый хостинг (VPS, NVMe SSD) или использования HTTP/2/3."
+  ]
+}

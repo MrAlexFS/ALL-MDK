@@ -1,0 +1,97 @@
+{
+  "url": "https://spokast.ru/",
+  "timestamp": "2026-03-26 21:36:24",
+  "robots": {
+    "exists": true,
+    "content": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /?\nDisallow: /wp-\nDisallow: /wp/\nDisallow: /wp-admin\nDisallow: *?s=\nDisallow: *&s=\nDisallow: /search/\nDisallow: /author/\nDisallow: /users/\nDisallow: */trackback\nDisallow: */feed\nDisallow: */rss\nDisallow: */embed\nDisallow: */page/\nDisallow: */wlwmanifest.xml\nDisallow: /xmlrpc.php\nDisallow: *utm*=\nDisallow: *openstat=\nAllow: */uploads\n\nSitemap: https://spokast.ru/sitemap.xml\n\nHost: https://spokast.ru"
+  },
+  "meta": {
+    "title": null,
+    "title_length": 0,
+    "description": null,
+    "keywords": null,
+    "robots_meta": null,
+    "canonical": null,
+    "open_graph": {
+      "og:title": null,
+      "og:description": null,
+      "og:image": null,
+      "og:url": null
+    }
+  },
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "images": {
+    "total": 0,
+    "missing_alt": 0,
+    "missing_title": 0,
+    "filenames_examples": []
+  },
+  "text": {
+    "length_chars": 0,
+    "words": 0,
+    "sample": ""
+  },
+  "links": {
+    "total_found": 0,
+    "unique": 0,
+    "internal": 0,
+    "external": 0,
+    "external_nofollow": 0,
+    "broken_checked": 0,
+    "broken": []
+  },
+  "duplicates": {
+    "potential_duplicates": [
+      "https://www.spokast.ru/",
+      "http://spokast.ru/"
+    ],
+    "accessible_duplicates": [
+      "https://www.spokast.ru/",
+      "http://spokast.ru/"
+    ]
+  },
+  "social": {
+    "share_buttons": false,
+    "footer_social_links": []
+  },
+  "speed": {
+    "load_time_sec": 0.59,
+    "ttfb_sec": 0.58,
+    "size_bytes": 274,
+    "size_mb": 0.0,
+    "headers": {
+      "caching_enabled": false,
+      "gzip_enabled": false
+    }
+  },
+  "recommendations": [
+    "Добавьте тег title (уникальный, длиной 50–70 символов).",
+    "Добавьте мета-тег description (краткое описание страницы).",
+    "Рекомендуется добавить мета-тег keywords (список ключевых слов).",
+    "Укажите каноническую ссылку <link rel='canonical'> для избежания дублей.",
+    "Добавьте мета-теги Open Graph для социальных сетей: og:title, og:description, og:image, og:url.",
+    "На странице отсутствует H1. Добавьте один главный заголовок.",
+    "Увеличьте объём текста на странице (сейчас 0 символов, рекомендуется от 500).",
+    "Используйте внутреннюю перелинковку: добавляйте ссылки на связанные страницы, хлебные крошки.",
+    "Найдены доступные зеркала страницы: https://www.spokast.ru/, http://spokast.ru/. Настройте 301-редирект на основное зеркало.",
+    "Включите GZIP сжатие на сервере (добавьте правила в .htaccess или настройте в панели хостинга).",
+    "Настройте кэширование браузера (Cache-Control, Expires) для статических ресурсов.",
+    "Добавьте кнопки «Поделиться» (например, AddToAny, ShareThis).",
+    "Укажите ссылки на ваши профили в соцсетях (VK, Telegram и др.) в подвале сайта."
+  ],
+  "manual_checklist": [
+    "Дизайн и юзабилити: проверьте визуальную привлекательность, контрастность, адаптивность, простоту навигации. Меню должно содержать 5–7 пунктов.",
+    "Уникальность текста: проверьте с помощью сервисов (Content-watch.ru, Text.ru). Должна быть не менее 95%.",
+    "Плотность ключевых слов: оцените, чтобы ключевые фразы встречались равномерно, не было переспама. Оптимально 1–2%.",
+    "Перелинковка: убедитесь, что на странице есть хлебные крошки, контекстные ссылки на связанные материалы, рекомендательные блоки.",
+    "Исходящие ссылки: проверьте, что ссылки ведут на авторитетные тематические ресурсы, для сомнительных используйте nofollow.",
+    "Микроразметка (Schema.org): рекомендуется добавить разметку для организаций, статей, товаров для улучшения сниппетов."
+  ]
+}

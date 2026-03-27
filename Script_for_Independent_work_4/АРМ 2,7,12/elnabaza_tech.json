@@ -1,0 +1,119 @@
+{
+  "url": "https://elnabaza.ru/",
+  "timestamp": "2026-03-26 23:01:41",
+  "robots": {
+    "exists": true,
+    "content": "User-Agent: *\nDisallow: /page63958037.html\nDisallow: /page63961085.html\nDisallow: /tilda/form*\nDisallow: /tilda/rec*\nDisallow: /tilda/click*\nDisallow: /tilda/scroll*\nDisallow: /tilda/popup*\nDisallow: /tilda/cart*\nDisallow: /tilda/product*\nDisallow: /tilda/event*\nDisallow: /*_escaped_fragment_*\nDisallow:\n\n\nSitemap: https://elnabaza.ru/sitemap.xml\nSitemap: https://elnabaza.ru/sitemap-store.xml\nHost: https://elnabaza.ru\n",
+    "disallowed": [
+      "/page63958037.html",
+      "/page63961085.html",
+      "/tilda/form*",
+      "/tilda/rec*",
+      "/tilda/click*",
+      "/tilda/scroll*",
+      "/tilda/popup*",
+      "/tilda/cart*",
+      "/tilda/product*",
+      "/tilda/event*"
+    ]
+  },
+  "resources_accessibility": {
+    "total_css_js": 24,
+    "blocked_count": 0,
+    "blocked_examples": [],
+    "accessible_examples": [
+      [
+        "css",
+        "https://static.tildacdn.com/css/tilda-grid-3.0.min.css"
+      ],
+      [
+        "css",
+        "https://static.tildacdn.com/ws/project10343561/tilda-blocks-page62597801.min.css?t=1743154122"
+      ],
+      [
+        "css",
+        "https://static.tildacdn.com/css/tilda-slds-1.4.min.css"
+      ],
+      [
+        "css",
+        "https://static.tildacdn.com/css/tilda-slds-1.4.min.css"
+      ],
+      [
+        "css",
+        "https://static.tildacdn.com/css/tilda-forms-1.0.min.css"
+      ]
+    ]
+  },
+  "speed": {
+    "desktop": {
+      "load_time_sec": 2.32,
+      "ttfb_sec": 2.3,
+      "size_bytes": 104493,
+      "size_mb": 0.1,
+      "status_code": 200
+    },
+    "mobile": {
+      "load_time_sec": 0.58,
+      "ttfb_sec": 0.56,
+      "size_bytes": 104493,
+      "size_mb": 0.1,
+      "status_code": 200
+    }
+  },
+  "mobile_friendly": {
+    "viewport_meta": true,
+    "media_queries_detected": true,
+    "recommendation": "OK"
+  },
+  "html_validation": {
+    "valid": true,
+    "errors": []
+  },
+  "broken_links": {
+    "total_checked": 10,
+    "broken_count": 6,
+    "broken_examples": [
+      [
+        "tel:79528305029",
+        "ошибка соединения"
+      ],
+      [
+        "https://elnabaza.ru/shop",
+        403
+      ],
+      [
+        "https://elnabaza.ru/o-nas",
+        403
+      ],
+      [
+        "https://elnabaza.ru/novosti",
+        403
+      ],
+      [
+        "https://elnabaza.ru/kredit",
+        403
+      ],
+      [
+        "https://wa.me/79528305029",
+        "ошибка соединения"
+      ]
+    ]
+  },
+  "duplicates": {
+    "potential_duplicates": [
+      "http://elnabaza.ru/",
+      "https://www.elnabaza.ru/",
+      "https://elnabaza.ru"
+    ],
+    "accessible_duplicates": [
+      "http://elnabaza.ru/",
+      "https://www.elnabaza.ru/",
+      "https://elnabaza.ru"
+    ]
+  },
+  "recommendations": [
+    "Проверьте, не заблокированы ли важные разделы в robots.txt.",
+    "Обнаружено 6 битых ссылок. Исправьте или удалите их.",
+    "Найдены доступные зеркала: http://elnabaza.ru/, https://www.elnabaza.ru/, https://elnabaza.ru. Настройте 301-редирект."
+  ]
+}

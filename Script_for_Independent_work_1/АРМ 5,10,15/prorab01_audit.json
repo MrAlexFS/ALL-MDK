@@ -1,0 +1,71 @@
+{
+  "url": "https://stroikomfort-m.ru/",
+  "timestamp": "2026-03-26 19:30:48",
+  "availability": {
+    "accessible": true,
+    "load_time_sec": 0.74,
+    "final_url": "https://stroikomfort-m.ru/"
+  },
+  "robots": {
+    "exists": true,
+    "content": "User-agent: Yandex\nAllow: /assets/*/*.css\nAllow: /assets/*/*.doc\nAllow: /assets/*/*.docx\nAllow: /assets/*/*.gif\nAllow: /assets/*/*.jpeg\nAllow: /assets/*/*.jpg\nAllow: /assets/*/*.js\nAllow: /assets/*/*.pdf\nAllow: /assets/*/*.png\nAllow: /assets/*/*.ppt\nAllow: /assets/*/*.pptx\nAllow: /assets/*/*.svg\nAllow: /assets/*/*.webp\nAllow: /assets/*/*.xls\nAllow: /assets/*/*.xlsx\nAllow: /core/cache/phpthumb/*.jpeg\nAllow: /core/cache/phpthumb/*.jpg\nAllow: /core/cache/phpthumb/*.pdf\nAllow: /core/cache/phpthumb/*..."
+  },
+  "sitemap": {
+    "exists": true
+  },
+  "meta": {
+    "title": "Магазин инструментов, строительных и отделочных материалов СтройКомфорт в Майкопе",
+    "title_length": 81,
+    "description": "Специализируемся на продаже качественных строительных материалов и инструментов для профессионалов и частных клиентов. Все товары для стройки от ведущих производителей.",
+    "keywords": null,
+    "robots_meta": null,
+    "canonical": "https://stroikomfort-m.ru/"
+  },
+  "headings": {
+    "h1": [
+      "База строительных и отделочныхматериалов Стройкомфорт в Майкопе"
+    ],
+    "h2": [
+      "Комплексное снабжение Вашей стройки",
+      "Каталог товаров",
+      "Популярные товары",
+      "Работаем с юридическими лицами",
+      "Станьте частью нашей команды",
+      "О компании",
+      "Новости"
+    ],
+    "h3": [
+      "Заказать звонок"
+    ],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "images": {
+    "total_images": 56,
+    "missing_alt": 14,
+    "missing_title": 56,
+    "alt_percentage": 75.0,
+    "title_percentage": 0.0
+  },
+  "text": {
+    "text_length_chars": 4546,
+    "word_count": 582,
+    "sample_text": "Магазин инструментов, строительных и отделочных материалов СтройКомфорт в Майкопе Главная О компании Предложения Сервис «Комфорт» Воскресная ярмарка Подарочные сертификаты Прайс Новости Доставка и оплата Вакансии Контакты +7 (929) 861-41-58 Пн-Вс: 7:00-21:00 Каталог Войти Сравнить 0 Избранное 0 Корзина Металлопрокат Электроинструменты Для сада Кровля Внутренняя отделка Сантехника Электрика Для дома Освещение Каталог Акции Новинки Новости Возврат Доставка Магазины Как заказать онлайн Работа с юр...."
+  },
+  "links": {
+    "total_links_found": 106,
+    "unique_links": 61,
+    "internal_links": 61,
+    "external_links": 0,
+    "broken_links_checked": 30,
+    "broken_links": []
+  },
+  "speed": {
+    "avg_load_time_3": 0.74
+  },
+  "social": {
+    "share_buttons": true,
+    "footer_social_links": []
+  }
+}
