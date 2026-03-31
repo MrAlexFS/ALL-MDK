@@ -1,0 +1,48 @@
+# Создайте .gitignore файл
+@"
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Логи
+*.log
+logs/
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Файлы практической работы (исключаем, так как там может быть свой git)
+# Но мы их включим, так как нужно отправить
+# П.р.№12 - Оформление API-документации в SwaggerЗадание/
+# Оформление документации API через Swagger в FastAPIЛекция/
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
+
+# Добавьте .gitignore в Git
+git add .gitignore
